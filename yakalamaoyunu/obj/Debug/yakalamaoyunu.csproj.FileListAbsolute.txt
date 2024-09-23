@@ -1,0 +1,22 @@
+C:\Users\emrul\source\repos\yakalamaoyunu\yakalamaoyunu\bin\Debug\yakalamaoyunu.exe.config
+C:\Users\emrul\source\repos\yakalamaoyunu\yakalamaoyunu\bin\Debug\yakalamaoyunu.exe
+C:\Users\emrul\source\repos\yakalamaoyunu\yakalamaoyunu\bin\Debug\yakalamaoyunu.pdb
+C:\Users\emrul\source\repos\yakalamaoyunu\yakalamaoyunu\obj\Debug\yakalamaoyunu.csproj.AssemblyReference.cache
+C:\Users\emrul\source\repos\yakalamaoyunu\yakalamaoyunu\obj\Debug\yakalamaoyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\emrul\source\repos\yakalamaoyunu\yakalamaoyunu\obj\Debug\yakalamaoyunu.Form1.resources
+C:\Users\emrul\source\repos\yakalamaoyunu\yakalamaoyunu\obj\Debug\yakalamaoyunu.Properties.Resources.resources
+C:\Users\emrul\source\repos\yakalamaoyunu\yakalamaoyunu\obj\Debug\yakalamaoyunu.csproj.GenerateResource.cache
+C:\Users\emrul\source\repos\yakalamaoyunu\yakalamaoyunu\obj\Debug\yakalamaoyunu.csproj.CoreCompileInputs.cache
+C:\Users\emrul\source\repos\yakalamaoyunu\yakalamaoyunu\obj\Debug\yakalamaoyunu.exe
+C:\Users\emrul\source\repos\yakalamaoyunu\yakalamaoyunu\obj\Debug\yakalamaoyunu.pdb
+C:\Users\emrul\Desktop\Visual Stüdyo\.yakalamaoyunu\yakalamaoyunu\bin\Debug\yakalamaoyunu.exe.config
+C:\Users\emrul\Desktop\Visual Stüdyo\.yakalamaoyunu\yakalamaoyunu\bin\Debug\yakalamaoyunu.exe
+C:\Users\emrul\Desktop\Visual Stüdyo\.yakalamaoyunu\yakalamaoyunu\bin\Debug\yakalamaoyunu.pdb
+C:\Users\emrul\Desktop\Visual Stüdyo\.yakalamaoyunu\yakalamaoyunu\obj\Debug\yakalamaoyunu.csproj.AssemblyReference.cache
+C:\Users\emrul\Desktop\Visual Stüdyo\.yakalamaoyunu\yakalamaoyunu\obj\Debug\yakalamaoyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\emrul\Desktop\Visual Stüdyo\.yakalamaoyunu\yakalamaoyunu\obj\Debug\yakalamaoyunu.Form1.resources
+C:\Users\emrul\Desktop\Visual Stüdyo\.yakalamaoyunu\yakalamaoyunu\obj\Debug\yakalamaoyunu.Properties.Resources.resources
+C:\Users\emrul\Desktop\Visual Stüdyo\.yakalamaoyunu\yakalamaoyunu\obj\Debug\yakalamaoyunu.csproj.GenerateResource.cache
+C:\Users\emrul\Desktop\Visual Stüdyo\.yakalamaoyunu\yakalamaoyunu\obj\Debug\yakalamaoyunu.csproj.CoreCompileInputs.cache
+C:\Users\emrul\Desktop\Visual Stüdyo\.yakalamaoyunu\yakalamaoyunu\obj\Debug\yakalamaoyunu.exe
+C:\Users\emrul\Desktop\Visual Stüdyo\.yakalamaoyunu\yakalamaoyunu\obj\Debug\yakalamaoyunu.pdb
